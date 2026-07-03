@@ -1,8 +1,18 @@
-. cabecalho{
-    background-color: rgb(15, 208, 31);
+.cabecalho{
+    background-color: rgb(255, 225, 225);
     color: flex;
-    justify-content:center;
+    justify-content: center;
+    display: flex;
 }
 .imagem-logo{
     width: 80px;
+}
+.main{
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    justify-items: center;
+    
+}
+.imagem-main
+    width: 150px;
 }
